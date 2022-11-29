@@ -1,3 +1,2 @@
-# beta-portfolio-base
-
-[Edit on StackBlitz ⚡️](https://stackblitz.com/edit/react-bq8lz1)
+Projeto muito básico, mas que me oferece diversos tipos de aprendizados.
+Todo o projeto de autoria própria, simplesmente veio na cabeça e fui montando <br/> simplesmente para aprender na prática as tags e onde colocá-las.

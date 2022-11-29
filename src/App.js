@@ -43,7 +43,10 @@ export default function App() {
           </ul>
         </div>
       </section>
-      <section className="projects" root="projects"></section>
+      <section className="projects" root="projects">
+          <h3>Meus projetos.</h3>
+          <button href="https://github.com/luishfbr?tab=repositories">GitHub</button>
+      </section>
       <section className="contact" root="contact"></section>
     </div>
   );
